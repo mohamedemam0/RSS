@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>EMAM</Machine>
+    <WindowsUser>Mohammed</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>fd7fe5d7-b2b8-442a-b64e-e32b20892735</PackageIdentityName>
+    <IntermediateOutputPath>D:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\DEMOS\RSS\RSS\RSS\RSS.Windows\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>2027F519097942C82765C46F0E86D78440845669F7E436E4E0626B74D2115EED</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>fd7fe5d7-b2b8-442a-b64e-e32b20892735_1.0.0.0_neutral__qg5cpme2007we</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>fd7fe5d7-b2b8-442a-b64e-e32b20892735_qg5cpme2007we!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>fd7fe5d7-b2b8-442a-b64e-e32b20892735</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Mohamed</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\DEMOS\RSS\RSS\RSS\RSS.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-01-28T21:37:30.926</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\DEMOS\RSS\RSS\RSS\RSS.Windows\bin\Debug\RSS.Windows.exe">
+      <PackagePath>RSS.Windows.exe</PackagePath>
+      <Modified>2015-02-09T21:43:21.572</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\DEMOS\RSS\RSS\RSS\RSS.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T07:54:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\DEMOS\RSS\RSS\RSS\RSS.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T07:54:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\DEMOS\RSS\RSS\RSS\RSS.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T07:54:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\DEMOS\RSS\RSS\RSS\RSS.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T07:54:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\DEMOS\RSS\RSS\RSS\RSS.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-09-26T01:36:45.535</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\DEMOS\RSS\RSS\RSS\RSS.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2014-09-26T01:36:45.546</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\DEMOS\RSS\RSS\RSS\RSS.Windows\bin\Debug\RSS.Windows.xr.xml">
+      <PackagePath>RSS.Windows.xr.xml</PackagePath>
+      <Modified>2014-09-25T19:44:44.749</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\DEMOS\RSS\RSS\RSS\RSS.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-01-28T21:37:29.855</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,64 @@
+c:\users\mohamed\documents\visual studio 2013\Projects\RSS\RSS\RSS.Windows\bin\Debug\App.xbf
+c:\users\mohamed\documents\visual studio 2013\Projects\RSS\RSS\RSS.Windows\bin\Debug\MainPage.xbf
+c:\users\mohamed\documents\visual studio 2013\Projects\RSS\RSS\RSS.Windows\bin\Debug\RSS.Windows.xr.xml
+c:\users\mohamed\documents\visual studio 2013\Projects\RSS\RSS\RSS.Windows\bin\Debug\RSS.Windows.exe
+c:\users\mohamed\documents\visual studio 2013\Projects\RSS\RSS\RSS.Windows\bin\Debug\RSS.Windows.pdb
+c:\users\mohamed\documents\visual studio 2013\Projects\RSS\RSS\RSS.Windows\bin\Debug\resources.pri
+c:\users\mohamed\documents\visual studio 2013\Projects\RSS\RSS\RSS.Windows\bin\Debug\AppxManifest.xml
+c:\users\mohamed\documents\visual studio 2013\Projects\RSS\RSS\RSS.Windows\bin\Debug\RSS.Windows.build.appxrecipe
+c:\users\mohamed\documents\visual studio 2013\Projects\RSS\RSS\RSS.Windows\obj\Debug\App.g.i.cs
+c:\users\mohamed\documents\visual studio 2013\Projects\RSS\RSS\RSS.Windows\obj\Debug\App.g.cs
+c:\users\mohamed\documents\visual studio 2013\Projects\RSS\RSS\RSS.Windows\obj\Debug\MainPage.g.i.cs
+c:\users\mohamed\documents\visual studio 2013\Projects\RSS\RSS\RSS.Windows\obj\Debug\MainPage.g.cs
+c:\users\mohamed\documents\visual studio 2013\Projects\RSS\RSS\RSS.Windows\obj\Debug\XamlTypeInfo.g.cs
+c:\users\mohamed\documents\visual studio 2013\Projects\RSS\RSS\RSS.Windows\obj\Debug\App.xaml
+c:\users\mohamed\documents\visual studio 2013\Projects\RSS\RSS\RSS.Windows\obj\Debug\App.xbf
+c:\users\mohamed\documents\visual studio 2013\Projects\RSS\RSS\RSS.Windows\obj\Debug\XamlSaveStateFile.xml
+c:\users\mohamed\documents\visual studio 2013\Projects\RSS\RSS\RSS.Windows\obj\Debug\MainPage.xaml
+c:\users\mohamed\documents\visual studio 2013\Projects\RSS\RSS\RSS.Windows\obj\Debug\MainPage.xbf
+c:\users\mohamed\documents\visual studio 2013\Projects\RSS\RSS\RSS.Windows\obj\Debug\RSS.Windows.exe
+c:\users\mohamed\documents\visual studio 2013\Projects\RSS\RSS\RSS.Windows\obj\Debug\RSS.Windows.pdb
+c:\users\mohamed\documents\visual studio 2013\Projects\RSS\RSS\RSS.Windows\obj\Debug\priconfig.xml
+c:\users\mohamed\documents\visual studio 2013\Projects\RSS\RSS\RSS.Windows\obj\Debug\priconfig.xml.intermediate
+c:\users\mohamed\documents\visual studio 2013\Projects\RSS\RSS\RSS.Windows\obj\Debug\layout.resfiles
+c:\users\mohamed\documents\visual studio 2013\Projects\RSS\RSS\RSS.Windows\obj\Debug\layout.resfiles.intermediate
+c:\users\mohamed\documents\visual studio 2013\Projects\RSS\RSS\RSS.Windows\obj\Debug\resources.resfiles
+c:\users\mohamed\documents\visual studio 2013\Projects\RSS\RSS\RSS.Windows\obj\Debug\resources.resfiles.intermediate
+c:\users\mohamed\documents\visual studio 2013\Projects\RSS\RSS\RSS.Windows\obj\Debug\pri.resfiles
+c:\users\mohamed\documents\visual studio 2013\Projects\RSS\RSS\RSS.Windows\obj\Debug\pri.resfiles.intermediate
+c:\users\mohamed\documents\visual studio 2013\Projects\RSS\RSS\RSS.Windows\obj\Debug\qualifiers.txt
+c:\users\mohamed\documents\visual studio 2013\Projects\RSS\RSS\RSS.Windows\obj\Debug\qualifiers.txt.intermediate
+c:\users\mohamed\documents\visual studio 2013\Projects\RSS\RSS\RSS.Windows\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\mohamed\documents\visual studio 2013\Projects\RSS\RSS\RSS.Windows\obj\Debug\ProjectArchitectures.txt
+D:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\DEMOS\RSS\RSS\RSS\RSS.Windows\bin\Debug\App.xbf
+D:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\DEMOS\RSS\RSS\RSS\RSS.Windows\bin\Debug\MainPage.xbf
+D:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\DEMOS\RSS\RSS\RSS\RSS.Windows\bin\Debug\RSS.Windows.xr.xml
+D:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\DEMOS\RSS\RSS\RSS\RSS.Windows\bin\Debug\RSS.Windows.exe
+D:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\DEMOS\RSS\RSS\RSS\RSS.Windows\bin\Debug\RSS.Windows.pdb
+D:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\DEMOS\RSS\RSS\RSS\RSS.Windows\bin\Debug\resources.pri
+D:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\DEMOS\RSS\RSS\RSS\RSS.Windows\bin\Debug\AppxManifest.xml
+D:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\DEMOS\RSS\RSS\RSS\RSS.Windows\bin\Debug\RSS.Windows.build.appxrecipe
+D:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\DEMOS\RSS\RSS\RSS\RSS.Windows\obj\Debug\App.g.i.cs
+D:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\DEMOS\RSS\RSS\RSS\RSS.Windows\obj\Debug\App.g.cs
+D:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\DEMOS\RSS\RSS\RSS\RSS.Windows\obj\Debug\MainPage.g.i.cs
+D:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\DEMOS\RSS\RSS\RSS\RSS.Windows\obj\Debug\MainPage.g.cs
+D:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\DEMOS\RSS\RSS\RSS\RSS.Windows\obj\Debug\XamlTypeInfo.g.cs
+D:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\DEMOS\RSS\RSS\RSS\RSS.Windows\obj\Debug\App.xaml
+D:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\DEMOS\RSS\RSS\RSS\RSS.Windows\obj\Debug\MainPage.xaml
+D:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\DEMOS\RSS\RSS\RSS\RSS.Windows\obj\Debug\App.xbf
+D:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\DEMOS\RSS\RSS\RSS\RSS.Windows\obj\Debug\MainPage.xbf
+D:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\DEMOS\RSS\RSS\RSS\RSS.Windows\obj\Debug\XamlSaveStateFile.xml
+D:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\DEMOS\RSS\RSS\RSS\RSS.Windows\obj\Debug\RSS.Windows.exe
+D:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\DEMOS\RSS\RSS\RSS\RSS.Windows\obj\Debug\RSS.Windows.pdb
+D:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\DEMOS\RSS\RSS\RSS\RSS.Windows\obj\Debug\priconfig.xml
+D:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\DEMOS\RSS\RSS\RSS\RSS.Windows\obj\Debug\priconfig.xml.intermediate
+D:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\DEMOS\RSS\RSS\RSS\RSS.Windows\obj\Debug\layout.resfiles
+D:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\DEMOS\RSS\RSS\RSS\RSS.Windows\obj\Debug\layout.resfiles.intermediate
+D:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\DEMOS\RSS\RSS\RSS\RSS.Windows\obj\Debug\resources.resfiles
+D:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\DEMOS\RSS\RSS\RSS\RSS.Windows\obj\Debug\resources.resfiles.intermediate
+D:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\DEMOS\RSS\RSS\RSS\RSS.Windows\obj\Debug\pri.resfiles
+D:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\DEMOS\RSS\RSS\RSS\RSS.Windows\obj\Debug\pri.resfiles.intermediate
+D:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\DEMOS\RSS\RSS\RSS\RSS.Windows\obj\Debug\qualifiers.txt
+D:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\DEMOS\RSS\RSS\RSS\RSS.Windows\obj\Debug\qualifiers.txt.intermediate
+D:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\DEMOS\RSS\RSS\RSS\RSS.Windows\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\DEMOS\RSS\RSS\RSS\RSS.Windows\obj\Debug\ProjectArchitectures.txt

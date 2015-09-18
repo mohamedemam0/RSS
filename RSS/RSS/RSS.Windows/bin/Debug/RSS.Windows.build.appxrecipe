@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>EMAM</Machine>
+    <WindowsUser>Mohammed</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>fd7fe5d7-b2b8-442a-b64e-e32b20892735</PackageIdentityName>
+    <IntermediateOutputPath>D:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\DEMOS\RSS\RSS\RSS\RSS.Windows\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\DEMOS\RSS\RSS\RSS\RSS.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\DEMOS\RSS\RSS\RSS\RSS.Windows\bin\Debug\RSS.Windows.exe">
+      <PackagePath>RSS.Windows.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\DEMOS\RSS\RSS\RSS\RSS.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\DEMOS\RSS\RSS\RSS\RSS.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\DEMOS\RSS\RSS\RSS\RSS.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\DEMOS\RSS\RSS\RSS\RSS.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\DEMOS\RSS\RSS\RSS\RSS.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\DEMOS\RSS\RSS\RSS\RSS.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\DEMOS\RSS\RSS\RSS\RSS.Windows\bin\Debug\RSS.Windows.xr.xml">
+      <PackagePath>RSS.Windows.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\DEMOS\RSS\RSS\RSS\RSS.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
